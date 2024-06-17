@@ -1,0 +1,67 @@
+read
+pop
+submerge 02
+submerge 03
+submerge 04
+submerge 01
+submerge 06
+submerge 05
+submerge 03
+submerge 0a
+submerge 14
+submerge 16
+submerge 19
+submerge 03
+submerge 00
+submerge 00
+submerge 02
+submerge 03
+submerge 04
+submerge 01
+submerge 06
+submerge 05
+submerge 03
+submerge 0a
+submerge 14
+submerge 16
+submerge 19
+submerge 03
+submerge 00
+submerge 00
+submerge 00
+submerge 10
+submerge 10
+submerge 1a
+submerge 1f
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
+print
